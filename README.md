@@ -8,7 +8,7 @@ Hi, My name is Anupong Hathacheep. Nickname is Mix. I am Front-End Developer . I
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [mickey\_0896@hotmail.com](mailto:mickey_0896@hotmail.com)
-* 🧠  I'm learning Back end Developer
+* 🧠  I'm learning Back end developer
 * 🤝  I'm open to collaborating on Front end developer & Full stack developer
 
 ### Skills
