@@ -13,7 +13,7 @@ I graduated from Sripatum University, and after starting my career, I’ve conti
 * ✉️  You can contact me at [mickey\_0896@hotmail.com](mailto:mickey_0896@hotmail.com)
 * 🧠  I'm expanding my skills in Backend development
 * 🤝  I'm open to collaborating on Frontend developer & Fullstack developer
-Portfolio: https://anupong-portfolio.netlify.app/
+* Portfolio: https://anupong-portfolio.netlify.app/
 
 ### Skills
 
