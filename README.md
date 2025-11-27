@@ -4,12 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 -------------------
 
-Hi, My name is Anupong Hathacheep. Nickname is Mix. I am Front-End Developer . I have been working in 2 years. I graduated from Sripatum University. I create project to support in production process of the company. In my free time, I are dedicated for learning program coding and frontend of website application
+Hello, my name is Anupong Hathacheep, but you can call me Mix. I’m a Frontend Developer with around 3 years of experience. Throughout my career, I’ve had the opportunity to develop and maintain projects that support the company’s production processes, which has helped me strengthen my technical skills, problem-solving abilities, and collaboration with cross-functional teams.
+
+I graduated from Sripatum University, and after starting my career, I’ve continued to develop my skills in building web applications using technologies such as JavaScript, Vue.js, React, and various tools and libraries that improve development efficiency.
+
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [mickey\_0896@hotmail.com](mailto:mickey_0896@hotmail.com)
-* 🧠  I'm learning Back end Developer
-* 🤝  I'm open to collaborating on Front end developer & Full stack developer
+* 🧠  I'm expanding my skills in Backend development
+* 🤝  I'm open to collaborating on Frontend developer & Fullstack developer
 
 ### Skills
 
