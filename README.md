@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anupong Hathacheep
 ==========================================================================================================================================
 
-Front-End Developer
+Frontend Developer
 -------------------
 
 Hello, my name is Anupong Hathacheep, but you can call me Mix. I’m a Frontend Developer with around 3 years of experience. Throughout my career, I’ve had the opportunity to develop and maintain projects that support the company’s production processes, which has helped me strengthen my technical skills, problem-solving abilities, and collaboration with cross-functional teams.
@@ -13,6 +13,7 @@ I graduated from Sripatum University, and after starting my career, I’ve conti
 * ✉️  You can contact me at [mickey\_0896@hotmail.com](mailto:mickey_0896@hotmail.com)
 * 🧠  I'm expanding my skills in Backend development
 * 🤝  I'm open to collaborating on Frontend developer & Fullstack developer
+Portfolio: https://anupong-portfolio.netlify.app/
 
 ### Skills
 
