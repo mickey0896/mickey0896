@@ -41,7 +41,7 @@ I enjoy learning new technologies, solving complex problems, and building soluti
 </a>
 
 <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxt-colored.svg" width="36" height="36" alt="Nuxt.js" />
+<img src="https://cdn.simpleicons.org/nuxt" width="36" height="36" alt="Nuxt.js" />
 </a>
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
