@@ -44,6 +44,10 @@ I enjoy learning new technologies, solving complex problems, and building soluti
 <img src="https://cdn.simpleicons.org/nuxt" width="36" height="36" alt="Nuxt.js" />
 </a>
 
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="36" height="36" alt="Bootstrap" />
+</a>
+
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" />
 </a>
