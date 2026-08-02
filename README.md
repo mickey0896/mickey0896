@@ -13,10 +13,11 @@ I have continuously improved my skills in developing scalable and reliable web a
 I enjoy learning new technologies, solving complex problems, and building solutions that create value for users and businesses.
 
 
-* 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [mickey\_0896@hotmail.com](mailto:mickey_0896@hotmail.com)
-* 🧠  I'm expanding my skills in Backend development
-* 🤝  I'm open to collaborating on Frontend developer & Fullstack developer
+
+* 🌍 Based in Bangkok, Thailand  
+* ✉️ Reach me at [anupong.hatha@gmail.com](mailto:anupong.hatha@gmail.com) ro [mickey\_0896@hotmail.com](mailto:mickey_0896@hotmail.com) 
+* 🧠 Experienced in Full-Stack development with React, Vue, Node.js, Django, and database technologies  
+* 🤝 Open to collaborating on Frontend, Backend, and Full-Stack projects
 * Portfolio: https://anupong-portfolio.netlify.app/
 
 ### Skills
